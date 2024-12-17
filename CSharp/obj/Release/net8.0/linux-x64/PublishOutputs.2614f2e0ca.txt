@@ -1,0 +1,4 @@
+/mnt/c/Users/Lenovo/Documents/Coding/Codedhims/Testing/CSharp/bin/Release/net8.0/linux-x64/publish/CSharp
+/mnt/c/Users/Lenovo/Documents/Coding/Codedhims/Testing/CSharp/bin/Release/net8.0/linux-x64/publish/appsettings.Development.json
+/mnt/c/Users/Lenovo/Documents/Coding/Codedhims/Testing/CSharp/bin/Release/net8.0/linux-x64/publish/appsettings.json
+/mnt/c/Users/Lenovo/Documents/Coding/Codedhims/Testing/CSharp/bin/Release/net8.0/linux-x64/publish/CSharp.pdb

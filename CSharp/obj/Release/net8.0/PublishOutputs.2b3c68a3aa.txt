@@ -1,0 +1,7 @@
+/mnt/c/Users/Lenovo/Documents/Coding/Studi/C#/CSharp/bin/Release/net8.0/publish/CSharp
+/mnt/c/Users/Lenovo/Documents/Coding/Studi/C#/CSharp/bin/Release/net8.0/publish/appsettings.Development.json
+/mnt/c/Users/Lenovo/Documents/Coding/Studi/C#/CSharp/bin/Release/net8.0/publish/appsettings.json
+/mnt/c/Users/Lenovo/Documents/Coding/Studi/C#/CSharp/bin/Release/net8.0/publish/CSharp.dll
+/mnt/c/Users/Lenovo/Documents/Coding/Studi/C#/CSharp/bin/Release/net8.0/publish/CSharp.deps.json
+/mnt/c/Users/Lenovo/Documents/Coding/Studi/C#/CSharp/bin/Release/net8.0/publish/CSharp.runtimeconfig.json
+/mnt/c/Users/Lenovo/Documents/Coding/Studi/C#/CSharp/bin/Release/net8.0/publish/CSharp.pdb

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "J6t2pjlns7I=",
+  "success": true,
+  "projectFilePath": "/mnt/c/Users/Lenovo/Documents/Coding/Codedhims/Testing/CSharp/CSharp.csproj",
+  "expectedPackageFiles": [
+    "/home/dhimasarista/.nuget/packages/microsoft.dotnet.ilcompiler/8.0.11/microsoft.dotnet.ilcompiler.8.0.11.nupkg.sha512",
+    "/home/dhimasarista/.nuget/packages/microsoft.net.illink.tasks/8.0.11/microsoft.net.illink.tasks.8.0.11.nupkg.sha512",
+    "/home/dhimasarista/.nuget/packages/runtime.linux-x64.microsoft.dotnet.ilcompiler/8.0.11/runtime.linux-x64.microsoft.dotnet.ilcompiler.8.0.11.nupkg.sha512",
+    "/home/dhimasarista/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/8.0.11/microsoft.netcore.app.runtime.linux-x64.8.0.11.nupkg.sha512",
+    "/home/dhimasarista/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/8.0.11/microsoft.aspnetcore.app.runtime.linux-x64.8.0.11.nupkg.sha512",
+    "/home/dhimasarista/.nuget/packages/runtime.linux-x64.microsoft.dotnet.ilcompiler/8.0.11/runtime.linux-x64.microsoft.dotnet.ilcompiler.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
